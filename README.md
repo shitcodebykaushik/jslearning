@@ -1,2 +1,2 @@
 # jslearning
-Well this contain the complete learning process of Javascript
+Well this repo  contain the complete learning process of Javascript
